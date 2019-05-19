@@ -1,0 +1,1 @@
+alert('bạn muốn hiện lên trang web không');  
